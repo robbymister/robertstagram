@@ -1,2 +1,3 @@
 # robertstagram
-An Instagram-like app Im currently making in Android Studio.
+An Instagram-like app I'm currently working on in Android Studio.
+WIP!
